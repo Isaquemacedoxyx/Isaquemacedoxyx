@@ -1,10 +1,10 @@
-# Isaque Macêdo Silva Fontenele
+Olá! Sou [@Isaquemacedoxyx](https://github.com/Isaquemacedoxyx).
 
-Estudante de Ciência da Computação, interessado em tecnologia, desenvolvimento de software e inteligência artificial.
+Sou estudante de Ciência da Computação, interessado em tecnologia, desenvolvimento de software e inteligência artificial.
 
-Gosto de entender como as coisas funcionam, explorar novas tecnologias e transformar ideias em projetos. Atualmente, estou construindo minha base em programação e buscando aplicar o conhecimento adquirido durante minha formação acadêmica.
+Gosto de entender como as coisas funcionam, explorar novas tecnologias e transformar ideias em projetos. Atualmente, estou construindo minha base em programação e buscando aplicar o conhecimento adquirido durante minha formação.
 
-## Formação e estudos
+## Formação acadêmica e estudos
 
 - Ciência da Computação
 - Linguagem C
@@ -42,13 +42,13 @@ Gosto de entender como as coisas funcionam, explorar novas tecnologias e transfo
 
 Projeto acadêmico desenvolvido em grupo, com foco na colaboração, controle de versão e utilização prática do Git e GitHub.
 
-(https://github.com/Isaquemacedoxyx/desafiocolaborativo-git)
+[Repositório do projeto](https://github.com/Isaquemacedoxyx/desafiocolaborativo-git)
 
 **Avalia 404 — Python**
 
 Projeto desenvolvido para praticar lógica de programação, validação de dados e funções em Python.
 
-(https://github.com/Isaquemacedoxyx/projeto-avalia-404)
+[Repositório do projeto](https://github.com/Isaquemacedoxyx/projeto-avalia-404)
 
 ## Objetivo
 
@@ -57,4 +57,4 @@ Continuar desenvolvendo minhas habilidades técnicas, aprofundar meus conhecimen
 ## Contato
 
 - GitHub: [Isaquemacedoxyx](https://github.com/Isaquemacedoxyx)
-- LinkedIn: www.linkedin.com/in/isaque-macedo-779a1442a
+- LinkedIn: [Meu perfil](https://www.linkedin.com/in/isaque-macedo-779a1442a/)
